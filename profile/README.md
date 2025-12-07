@@ -1,3 +1,3 @@
 ## InvestLab
 
-https://www.investlab.kapica.click
+https://investlab.kapica.click
